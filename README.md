@@ -2,8 +2,8 @@
 
 Assignment: Create an encryption program that accepts sentences or a key(Formula) and will undo the encryption
 
-Create  an encryption program using the following directives:
-1) Create an Encryption formula: the formula should work on "do and un-do"
+Create an encryption program using the following directives:
+1) Create an encryption formula: the formula should work on "do and un-do"
 2) Create a program that accepts a sentence(s) from the user/Must be a real sentence(s) 
 3) With the encryption key ( Formula) the sentence(s) will be encrypted
 4) Display the final result 
